@@ -25,3 +25,15 @@ If you want to generate data for benchmark. You should put `gen_model_answer_med
 - [ ] Optimize the code to reduce the overhead.
 - [ ] Explore better strategies to approximate the joint distribution of sequences. Currently, it is approximated by the Cartesian product of the marginal distributions.
 
+For more details, please refer to our report.
+```bibtex
+@misc{zhang2025accelerationmultipleheadsdecoding,
+      title={Acceleration Multiple Heads Decoding for LLM via Dynamic Tree Attention}, 
+      author={Zhendong Zhang},
+      year={2025},
+      eprint={2502.05947},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.05947}, 
+}
+```
